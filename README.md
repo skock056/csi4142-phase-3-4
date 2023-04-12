@@ -5,3 +5,4 @@ Nicholas Mah, 300255901<br>
 Sébastien Kock, 300137051<br>
 Simon Proulx, 300067852
 
+Google Colab Document: https://colab.research.google.com/drive/1k7DxvqHQkcVNUym6sZQj_3ByR2DvrrYZ?usp=sharing
