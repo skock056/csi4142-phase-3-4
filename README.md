@@ -10,3 +10,7 @@ Google Colab Document: https://colab.research.google.com/drive/1k7DxvqHQkcVNUym6
 ## Power BI Dashboard
 
 Unfortunately, due to the nature of Postgres and it not accepting more than 1 connection, we were unable to access our SQL server through Power BI, which made querying the data for the dashboards far more difficult. The current dashboard gives a general overview of the functionalities of the different views, which can be drilled down and rolled up by clicking on the arrows at the top of the view. If you would like to see the real data for our project, you can always consult the [Jupyter Notebook](CSI4142.ipynb) to visualize the accurate data.
+
+## Phase 4 & Data mining
+
+Due to some technical difficulties, including a late-semester timeline with electrical outtages, the phase 4 of our google colab was lost in the cloud. Some portions of the testing were kept from an earlier version, but it is too limited to run anything specific. However, we still have the papers that we have written during the categorization part. Please accept this as a show of good faith.
